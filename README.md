@@ -1,7 +1,9 @@
 # A formula for risk in chains of AI agents
 
 Formula note, revision 5
+
 Author: Lawrence J. Genobia, independent researcher
+
 Status: preprint, not peer reviewed
 
 ## Original record
